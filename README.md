@@ -11,7 +11,7 @@ Tuliskan cakupan proyek yang akan dikerjakan.
 
 ### Persiapan
 
-Sumber data: (https://github.com/dicodingacademy/dicoding_dataset/blob/main/students_performance/data.csv)
+Sumber data: ``` https://github.com/dicodingacademy/dicoding_dataset/blob/main/students_performance/data.csv ```
 
 Setup environment:
 ```
