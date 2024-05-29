@@ -37,7 +37,18 @@ jupyter-notebook
 ```
 
 ## Business Dashboard
-Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
+Dashboard dibuat hanya dengan data siswa yang dropout (Kecuali pie chart status), yaitu 18% data yang ada atau sebanyak 794 siswa dari total 4424 siswa.
+
+Agar tidak terlalu banyak, data Age_at_enrollment yang digunakan dikelompokkan dengan jarak 4,35 tahun.
+
+Karena nilai Curricular_unit pada semester 1 dan 2 tidak jauh, maka pada dashboard ini hanya menampilkan jumlah Curricular_unit semester 1 saja.
+
+Terdapat 2 bar chart yang memiliki warna berbeda, yaitu Tuition Feeds Up To Date dan Scholarship. Hal ini dibuat untuk memberitahu bahwa Tuition Feeds Up To Date berhubungan dengan status debtor. Begitu pula pada bar chart Scholarship, dibuat 2 warna berdasarkan jenis kelamin.
+
+Dashboard ini dapat dilihat melalui link di bawah ini:
+```
+https://public.tableau.com/app/profile/alif.khusain.bilfaqih/viz/dashboard_17169966514310/Dashboard1?publish=yes
+```
 
 ## Menjalankan Sistem Machine Learning
 Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat. Selain itu, sertakan juga link untuk mengakses prototype tersebut.
