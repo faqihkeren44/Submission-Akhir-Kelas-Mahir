@@ -25,7 +25,7 @@ Harapannya, dengan selesainya proyek ini, akan terbuat dashboard yang dapat memb
 
 Sumber data:
 ```
-https://github.com/dicodingacademy/dicoding_dataset/blob/main/students_performance/data.csv
+https://github.com/dicodingacademy/dicoding_dataset/tree/main/students_performance
 ```
 
 Setup environment - Anaconda:
