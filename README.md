@@ -38,12 +38,10 @@ jupyter-notebook
 
 ## Business Dashboard
 Dashboard dibuat hanya dengan data siswa yang dropout (Kecuali pie chart status), yaitu 18% data yang ada atau sebanyak 794 siswa dari total 4424 siswa.
+Agar kolom pada chart Age_at_enrollment tidak banyak, umur siswa dikelompokkan dengan jarak 4,35 tahun.
+Selain itu, nilai Curricular_unit pada semester 1 dan 2 tidak jauh, maka pada dashboard ini hanya menampilkan jumlah Curricular_unit semester 1 saja.
 
-Agar tidak terlalu banyak, data Age_at_enrollment yang digunakan dikelompokkan dengan jarak 4,35 tahun.
-
-Karena nilai Curricular_unit pada semester 1 dan 2 tidak jauh, maka pada dashboard ini hanya menampilkan jumlah Curricular_unit semester 1 saja.
-
-Terdapat 2 bar chart yang memiliki warna berbeda, yaitu Tuition Feeds Up To Date dan Scholarship. Hal ini dibuat untuk memberitahu bahwa Tuition Feeds Up To Date berhubungan dengan status debtor. Begitu pula pada bar chart Scholarship, dibuat 2 warna berdasarkan jenis kelamin.
+Pada dashboard ini, terdapat 2 bar chart yang memiliki warna berbeda, yaitu Tuition Feeds Up To Date dan Scholarship. Hal ini dibuat untuk memberitahu bahwa Tuition Feeds Up To Date berhubungan dengan status debtor. Begitu pula pada bar chart Scholarship, dibuat 2 warna berdasarkan jenis kelamin.
 
 Dashboard ini dapat dilihat melalui link di bawah ini:
 ```
