@@ -4,5 +4,4 @@ seaborn 0.13.1
 numpy 1.25.2
 matplotlib 3.7.1
 scikit-learn 1.2.2
-streamlit
-pickle 
+streamlit 
