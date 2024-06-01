@@ -51,22 +51,15 @@ https://public.tableau.com/app/profile/alif.khusain.bilfaqih/viz/dashboard_17169
 
 ## Menjalankan Sistem Machine Learning
 Untuk menampilkan mesin model klik tombol panah (>) di pojok kiri atas halaman. Pada tampilannya, ada beberapa inputan yang harus diisi, yaitu:
+* Gender: Jenis kelamin siswa (Man = Pria, Woman = Wanita)
+* Marital Status: Status pernikahan (Single = Belum menikah, Married = Menikah, Widower = Janda/Duda, Divorced = Cerai, Facto Union = Pernikahan tidak resmi, Legally Separated = Perceraian resmi)
+* Age At Enrollment: Usia siswa saat melakukan enrollment
+* Debtor: Apakah siswa memiliki tanggungan hutang?
+* Tuition Fees: Apakah siswa sudah melunasi pembayaran terkini?
+* Scholarship Holder: Apakah siswa mendapatkan beasiswa?
+* Displaced: Apakah siswa berasal dari keluarga kurang mampu?
+* Curriculum Unit: Jumlah Curriculum yang dikreditkan, dienrollment, disetujui, dan nilainya. Baik pada semester
 
-Gender: Jenis kelamin siswa (Man = Pria, Woman = Wanita)
-
-Marital Status: Status pernikahan (Single = Belum menikah, Married = Menikah, Widower = Janda/Duda, Divorced = Cerai, Facto Union = Pernikahan tidak resmi, Legally Separated = Perceraian resmi)
-
-Age At Enrollment: Usia siswa saat melakukan enrollment
-
-Debtor: Apakah siswa memiliki tanggungan hutang?
-
-Tuition Fees: Apakah siswa sudah melunasi pembayaran terkini?
-
-Scholarship Holder: Apakah siswa mendapatkan beasiswa?
-
-Displaced: Apakah siswa berasal dari keluarga kurang mampu?
-
-Curriculum Unit: Jumlah Curriculum yang dikreditkan, dienrollment, disetujui, dan nilainya. Baik pada semester
 ```
 https://submission-akhir-kelas-mahir-alu5zaagidoimnezg45veg.streamlit.app/
 ```
