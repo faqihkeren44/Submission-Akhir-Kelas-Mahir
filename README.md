@@ -61,7 +61,7 @@ Untuk menampilkan mesin model klik tombol panah (>) di pojok kiri atas halaman. 
 * Curriculum Unit: Jumlah Curriculum yang dikreditkan, dienrollment, disetujui, dan nilainya. Baik pada semester
 
 ```
-https://submission-akhir-kelas-mahir-alu5zaagidoimnezg45veg.streamlit.app/
+https://submission-akhir-kelas-mahir-dd3zig5ngrffqep5tpmcou.streamlit.app/
 ```
 
 ## Conclusion
